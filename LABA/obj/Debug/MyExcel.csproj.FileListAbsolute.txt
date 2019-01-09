@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\LABA\LABA\bin\Debug\LABA.exe.config
+C:\Users\Lenovo\source\repos\LABA\LABA\bin\Debug\LABA.exe
+C:\Users\Lenovo\source\repos\LABA\LABA\bin\Debug\LABA.pdb
+C:\Users\Lenovo\source\repos\LABA\LABA\obj\Debug\MyExcel.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\LABA\LABA\obj\Debug\MyExcel.csproj.ResolveComReference.cache
+C:\Users\Lenovo\source\repos\LABA\LABA\obj\Debug\LABA.MainForm.resources
+C:\Users\Lenovo\source\repos\LABA\LABA\obj\Debug\LABA.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\LABA\LABA\obj\Debug\MyExcel.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\LABA\LABA\obj\Debug\MyExcel.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\LABA\LABA\obj\Debug\LABA.exe
+C:\Users\Lenovo\source\repos\LABA\LABA\obj\Debug\LABA.pdb

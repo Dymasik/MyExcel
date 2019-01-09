@@ -1,0 +1,11 @@
+c:\users\lenovo\source\repos\LABA\LABA\bin\Debug\LABA.exe.config
+c:\users\lenovo\source\repos\LABA\LABA\bin\Debug\LABA.exe
+c:\users\lenovo\source\repos\LABA\LABA\bin\Debug\LABA.pdb
+c:\users\lenovo\source\repos\LABA\LABA\obj\Debug\LABA.csprojAssemblyReference.cache
+c:\users\lenovo\source\repos\LABA\LABA\obj\Debug\LABA.Properties.Resources.resources
+c:\users\lenovo\source\repos\LABA\LABA\obj\Debug\LABA.csproj.GenerateResource.cache
+c:\users\lenovo\source\repos\LABA\LABA\obj\Debug\LABA.csproj.CoreCompileInputs.cache
+c:\users\lenovo\source\repos\LABA\LABA\obj\Debug\LABA.exe
+c:\users\lenovo\source\repos\LABA\LABA\obj\Debug\LABA.pdb
+c:\users\lenovo\source\repos\LABA\LABA\obj\Debug\LABA.MainForm.resources
+C:\Users\Lenovo\source\repos\LABA\LABA\obj\Debug\LABA.csproj.ResolveComReference.cache
